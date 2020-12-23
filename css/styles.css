@@ -1,0 +1,92 @@
+h1 {
+    color: brown;
+    font-size: 80px;
+    font-style: oblique;
+    text-align: center;
+}
+h2 {
+    background-color: rgb(182, 174, 159);
+    font-size: 50 px;
+    font-style: normal;
+    text-align: center;
+}
+h3 {
+    font-size: 30 px;
+    font-style: normal;
+    font-weight: lighter;
+    text-align: center;
+}
+body {
+    background-color: rgb(243, 241, 239); width: 300 px; height: 400 px;
+}
+img {
+    width: 30%;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+.img-desc {
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.section-1 {
+    background-color: lightsteelblue;
+}
+
+.section-2 {
+    background-color: lightsteelblue;
+}
+
+.first-link{
+    text-align: center;
+    text-decoration: none;
+    color: darkred;
+}
+
+.second-link {
+    text-align: center;
+    text-decoration: none;
+    color: darkred;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+span {
+    background-color: darkgrey;
+}
+
+.list {
+    color: maroon;
+}
+
+.GE-img {
+    width: 10%;
+    margin: 1%;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+.E-img {
+    width: 10%;
+    margin: 1%;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+.T-img {
+    width: 10%;
+    margin: 1%;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+}

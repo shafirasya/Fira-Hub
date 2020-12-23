@@ -1,0 +1,29 @@
+h1 {
+    color:teal;
+    font-style: italic;
+    font-size: 80 px;
+    text-align: center;
+    margin: 2%;
+}
+
+body {
+    background-color:cornsilk;
+}
+
+.E-first-img {
+    width: 50%;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+    padding: 2%;
+}
+
+p {
+    font-size: 120 px;
+    font-style: initial;
+    text-align: center;
+}
+
+span {
+    background-color: rgb(179, 236, 146);
+}
