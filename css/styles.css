@@ -4,6 +4,27 @@ h1 {
     font-style: oblique;
     text-align: center;
 }
+
+.topnav {
+    margin: 1 px;
+    text-align:end;
+}
+
+.Home {
+    text-decoration:underline;
+    color:black;
+}
+
+.Interest {
+    text-decoration:underline;
+    color: black;
+}
+
+.Activity {
+    text-decoration:underline;
+    color: black;
+}
+
 h2 {
     background-color: rgb(182, 174, 159);
     font-size: 50 px;
@@ -89,4 +110,25 @@ span {
     display: block;
     margin-left:auto ;
     margin-right: auto;
+}
+
+.section-act {
+    font-size: 200%;
+    text-decoration: none;
+}
+
+.activity {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.connect {
+    font-size: 200%;
+}
+
+.footer {
+    text-decoration: none;
+    text-align: center;
+    color: black;
 }
