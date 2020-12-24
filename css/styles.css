@@ -5,11 +5,32 @@ h1 {
     text-align: center;
 }
 
-.topnav {
-    margin: 1 px;
-    text-align:end;
+.top-page {
+    background-color:  rgb(182, 174, 159) ;
 }
 
+.topnav {
+    display: flex;
+    margin-right: 20px;
+    margin-top: 40px;
+    flex-direction: row;
+    font-size:x-large;
+    height: 50px;
+}
+
+hr {
+    height: 5px;
+    color: rgba(0,0,0,0.6);
+}
+    
+.Name {
+    margin-right: auto;
+    margin-left: 20px;
+    text-decoration:none;
+    background-color: rgb(182, 174, 159);
+    color:black;
+}
+    
 .Home {
     text-decoration:underline;
     color:black;
@@ -26,7 +47,6 @@ h1 {
 }
 
 h2 {
-    background-color: rgb(182, 174, 159);
     font-size: 50 px;
     font-style: normal;
     text-align: center;
@@ -53,10 +73,14 @@ img {
 }
 
 .section-1 {
+    font-size: x-large;
+    font-style: oblique;
     background-color: lightsteelblue;
 }
 
 .section-2 {
+    font-size: x-large;
+    font-style: oblique;
     background-color: lightsteelblue;
 }
 
@@ -88,26 +112,47 @@ span {
     color: maroon;
 }
 
+.interest-choice {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .GE-img {
-    width: 10%;
+    width: 30%;
+    background-color: #eed;
+    box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -o-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    border-radius:80px;
     margin: 1%;
-    display: block;
     margin-left:auto ;
     margin-right: auto;
 }
 
 .E-img {
-    width: 10%;
+    width: 55%;
+    background-color: #eed;
+    box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -o-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    border-radius:80px;
     margin: 1%;
-    display: block;
     margin-left:auto ;
     margin-right: auto;
 }
 
 .T-img {
-    width: 10%;
+    width: 30%;
+    background-color: #eed;
+    box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    -o-box-shadow: 5px -5px  rgba(0,0,0,0.6);
+    border-radius:80px;
     margin: 1%;
-    display: block;
     margin-left:auto ;
     margin-right: auto;
 }

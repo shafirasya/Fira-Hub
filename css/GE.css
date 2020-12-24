@@ -1,13 +1,13 @@
 h1 {
-    color:brown;
-    font-style: italic;
-    font-size: 80 px;
+    color: rgb(0, 92, 128);
+    font-style: oblique;
+    font-size: 70px;
     text-align: center;
     margin: 2%;
 }
 
 body {
-    background-color:wheat;
+    background-color: rgb(243, 241, 239);
 }
 
 .GE-first-img {
@@ -19,11 +19,12 @@ body {
 }
 
 p {
-    font-size: 120 px;
-    font-style: initial;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 120% ;
     text-align: center;
 }
 
 span {
-    background-color: lightcoral;
+    background-color: rgb(107, 163, 196);
 }

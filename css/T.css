@@ -1,17 +1,17 @@
 h1 {
-    color: steelblue;
-    font-style: italic;
-    font-size: 80 px;
+    color:rgb(192, 181, 33);
+    font-style: oblique;
+    font-size: 70px;
     text-align: center;
     margin: 2%;
 }
 
 body {
-    background-color: honeydew;
+    background-color:  rgb(243, 241, 239);
 }
 
 .T-first-img {
-    width: 50%;
+    width: 40%;
     display: block;
     margin-left:auto ;
     margin-right: auto;
@@ -19,11 +19,14 @@ body {
 }
 
 p {
-    font-size: 120 px;
-    font-style: initial;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 120%;
     text-align: center;
 }
 
 span {
-    background-color: rgb(137, 178, 216);
+    background-color:rgb(245, 245, 110);
 }
+
+rgb(137, 178, 216)
