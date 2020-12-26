@@ -276,7 +276,7 @@ p {
 .socmed {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .instagram-img {
